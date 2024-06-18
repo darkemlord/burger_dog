@@ -1,6 +1,6 @@
 import pygame as pg, random
 
-# Intialize the game
+# Initialize the game
 pg.init()
 
 # Set display surface
